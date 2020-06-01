@@ -57,5 +57,5 @@ https://github.com/FlowsMind/Technical_Survey/blob/master/GO-ML.md
 https://github.com/FlowsMind/Technical_Survey/blob/master/GO-Stat.md
 
 3. Natural Language Processing
-https://github.com/FlowsMind/Technical_Survey/blob/master/GO-NLP.md
+https://github.com/FlowsMind/Technical_Survey/blob/master/Go-NLP.md
 
