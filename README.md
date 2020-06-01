@@ -25,3 +25,9 @@ https://github.com/tidwall/cities
 ### Visualization
 1. The adorable charts library for Golang https://go-echarts.github.io/go-echarts/
 https://github.com/go-echarts/go-echarts
+
+2. dataDash Visualize streaming or tabular data inside the terminal
+https://github.com/keithknott26/datadash
+A graphing application written in go using termdash[https://github.com/mum4k/termdash], inspired by termeter[https://github.com/atsaki/termeter]. Delimited Data can be passed in by pipe or directly from a file.
+
+
