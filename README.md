@@ -50,6 +50,12 @@ https://github.com/gchaincl/httplab
 
 
 ## [Others]:
-Machine Learning & Neural Networks
+1. Machine Learning & Neural Networks
 https://github.com/FlowsMind/Technical_Survey/blob/master/GO-ML.md
+
+2. Statistics
+https://github.com/FlowsMind/Technical_Survey/blob/master/GO-Stat.md
+
+3. Natural Language Processing
+https://github.com/FlowsMind/Technical_Survey/blob/master/GO-NLP.md
 
