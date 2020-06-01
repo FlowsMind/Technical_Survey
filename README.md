@@ -30,4 +30,14 @@ https://github.com/go-echarts/go-echarts
 https://github.com/keithknott26/datadash
 A graphing application written in go using termdash[https://github.com/mum4k/termdash], inspired by termeter[https://github.com/atsaki/termeter]. Delimited Data can be passed in by pipe or directly from a file.
 
+3. dash is a terminal dashboard solution inspired by Grafana, to visualize and explore your data.
+https://github.com/ricoberger/dash
+
+4. Realtime visualization of your access logs on a map
+https://github.com/ramanenka/geoip-live-map
+
+### UI
+1. The interactive web server
+https://github.com/gchaincl/httplab
+
 
