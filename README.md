@@ -2,7 +2,7 @@
 The memo of the technical survey.
 
 
-## [Awesome Project]
+## [Golang Awesome Project]
 
 ### tidwall
 
