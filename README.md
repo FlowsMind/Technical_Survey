@@ -44,3 +44,7 @@ https://github.com/makerforceio/nviz
 https://github.com/gchaincl/httplab
 
 
+## [Others]:
+Machine Learning & Neural Networks
+https://github.com/FlowsMind/Technical_Survey/blob/master/GO-ML.md
+
