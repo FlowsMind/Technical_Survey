@@ -56,4 +56,8 @@ https://github.com/james-bowman/nlp
 8. pure Go implementation of prediction part for GBRT (Gradient Boosting Regression Trees) models from popular frameworks
 https://github.com/dmitryikh/leaves
 
+9. clusters
+https://github.com/mpraski/clusters
+Go implementations of several clustering algoritms (k-means++, DBSCAN, OPTICS), as well as utilities for importing data and estimating optimal number of clusters.
+
 
