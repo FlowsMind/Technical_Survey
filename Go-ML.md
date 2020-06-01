@@ -3,7 +3,7 @@
 1. olivia : Your new best friend powered by an artificial neural network https://olivia-ai.org
 https://github.com/olivia-ai/olivia
 
-Olivia is an open-source chatbot built in Golang using Machine Learning technologies. Its goal is to provide a free and open-source alternative to big services like DialogFlow.
+  Olivia is an open-source chatbot built in Golang using Machine Learning technologies. Its goal is to provide a free and open-source alternative to big services like DialogFlow.
 You can chat with her by speaking (STT) or writing, she replies with a text message but you can enable her voice (TTS).
 
 
@@ -26,9 +26,9 @@ https://github.com/made2591/go-perceptron-go
 https://github.com/xlvector/hector
 
 2. Gorgonia is a library that helps facilitate machine learning in Go.
-Gorgonia is a library that helps facilitate machine learning in Go. 
-Write and evaluate mathematical equations involving multidimensional arrays easily. 
-If this sounds like Theano or TensorFlow, it's because the idea is quite similar. 
+https://github.com/gorgonia
+
+Gorgonia is a library that helps facilitate machine learning in Go. Write and evaluate mathematical equations involving multidimensional arrays easily. If this sounds like Theano or TensorFlow, it's because the idea is quite similar. 
 Specifically, the library is pretty low-level, like Theano, but has higher goals like Tensorflow.
 
 3. tensor
@@ -44,9 +44,16 @@ https://github.com/aunum/goro
 
 Goro is a high-level machine learning library for Go built on Gorgonia. It aims to have the same feel as Keras.
 
-5. Pure Go face detection, pupil/eyes localization and facial landmark points detection library
+5. Reinforcement Learning in Go
+https://github.com/aunum/gold
+
+6. Pure Go face detection, pupil/eyes localization and facial landmark points detection library
 https://github.com/esimov/pigo
 
+7. Selected Machine Learning algorithms for natural language processing and semantic analysis in Golang
+https://github.com/james-bowman/nlp
 
+8. pure Go implementation of prediction part for GBRT (Gradient Boosting Regression Trees) models from popular frameworks
+https://github.com/dmitryikh/leaves
 
 
