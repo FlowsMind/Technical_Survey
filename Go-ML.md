@@ -19,6 +19,8 @@ https://github.com/Xamber/Varis
 5. A single / multi layer / recurrent neural network written in Golang.
 https://github.com/made2591/go-perceptron-go
 
+6. fonet is a deep neural network package for Go.
+https://github.com/Fontinalis/fonet
 
 ## [Machine Learning]
 
