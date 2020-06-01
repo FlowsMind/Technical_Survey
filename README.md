@@ -39,6 +39,11 @@ https://github.com/ramanenka/geoip-live-map
 5. A real-time visualization tool to train neural networks
 https://github.com/makerforceio/nviz
 
+6. A repository for plotting and visualizing data
+https://github.com/gonum/plot
+
+gonum/plot is the new, official fork of code.google.com/p/plotinum. It provides an API for building and drawing plots in Go.
+
 ### UI
 1. The interactive web server
 https://github.com/gchaincl/httplab
