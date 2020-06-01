@@ -36,6 +36,9 @@ https://github.com/ricoberger/dash
 4. Realtime visualization of your access logs on a map
 https://github.com/ramanenka/geoip-live-map
 
+5. A real-time visualization tool to train neural networks
+https://github.com/makerforceio/nviz
+
 ### UI
 1. The interactive web server
 https://github.com/gchaincl/httplab
