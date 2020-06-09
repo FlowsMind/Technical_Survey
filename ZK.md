@@ -20,7 +20,12 @@ Range Proofs based on the paper: Efficient Proofs that a Committed Number Lies i
 Set Membership Proofs based on the paper: Efficient protocols for set membership and range proofs, by Jan Camenisch, Rafik Chaabouni and Abhi Shelat.
 Bulletproofs based on paper: Bulletproofs: Short Proofs for Confidential Transactions and More, by Benedikt Bünz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille and Greg Maxwell.
 
-04. BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs (https://github.com/Agzs/BlockMaze)
+04. zkstarks -- This is a test-driven implementation of zkSTARKs based on the recent tutorials by StarkWare.(https://github.com/actuallyachraf/zkstarks)
+
+To follow trough the implementations are separated into files and their respective tests reading the files and following the Python example will be more fruitful to your understanding.
+
+
+05. BlockMaze: An Efficient Privacy-Preserving Account-Model Blockchain Based on zk-SNARKs (https://github.com/Agzs/BlockMaze)
 * test/clique can test geth using clique consensus algorithm (PoA)
 * test/pow can run test using ethash consensus algorithm (PoW)
 * go-ethereum can build and compile geth
