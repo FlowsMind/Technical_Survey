@@ -3,6 +3,8 @@ The memo of the technical survey.
 
 ## Slide PDF
 [Fast and Scalable Machine Learning with GoLang](https://github.com/FlowsMind/Technical_Survey/blob/master/fast-and-scalable-machine-learning-with-golang.pdf)
+Discussion of Machine Learning, Go Libraries, Project Examples ...
+
 
 ## [Golang Awesome Project]
 
