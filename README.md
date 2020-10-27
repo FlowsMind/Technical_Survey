@@ -8,6 +8,36 @@ Discussion of Machine Learning, Go Libraries, Project Examples ...
 
 ## [Golang Awesome Project]
 
+### Machine Learning with GoLang
+
+1. [Machine Learning & Neural Networks](https://github.com/FlowsMind/Technical_Survey/blob/master/Go-ML.md)
+
+2. [Data Science](https://github.com/FlowsMind/Technical_Survey/blob/master/Go-DataScience.md)
+
+3. [Natural Language Processing](https://github.com/FlowsMind/Technical_Survey/blob/master/Go-NLP.md)
+
+### Recommendation Engines in Go
+1. Collaborative Filtering (CF) Algorithms in Go - https://github.com/timkaye11/goRecommend
+
+2. Recommendation engine for Go - https://github.com/muesli/regommend
+
+### Linear Algebra in Go
+1. Linear Algebra for Go & Matrix Library: https://github.com/skelterjohn/go.matrix
+
+2. Mat64: Package mat64 provides basic linear algebra operations for float64 matrices.: https://godoc.org/github.com/gonum/matrix/mat64
+
+3. BLAS Implementation for Go: https://github.com/gonum/blas liblinear bindings for Go: https://github.com/danieldk/golinear
+
+### Classification, Decision Trees in Go
+1. Hector https://github.com/xlvector/hector - Golang machine learning lib. Currently, it can be used to solve binary classification problems.Logistic Regression , Factorized Machine , CART, Random Forest, Random Decision Tree, Gradient Boosting Decision Tree & Neural Network
+
+2. Decision Trees in Go - https://github.com/ajtulloch/decisiontrees - Gradient Boosting, Random Forests, etc. implemented in Go
+
+3. CloudForest - https://github.com/ryanbressler/CloudForest - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go (golang).
+CloudForest allows for a number of related algorithms for classification, regression, feature selection and structure analysis on heterogeneous numerical / categorical data with missing values.
+
+4. Random Forest Implementation: https://github.com/fxsjy/RF.go
+
 ### tidwall
 
 1. tile38 : Real-time Geospatial and Geofencing
@@ -50,11 +80,4 @@ A graphing application written in go using [termdash](https://github.com/mum4k/t
 1. The interactive web server
 [gchaincl/httplab](https://github.com/gchaincl/httplab)
 
-
-## [Others]:
-1. [Machine Learning & Neural Networks](https://github.com/FlowsMind/Technical_Survey/blob/master/Go-ML.md)
-
-2. [Statistics](https://github.com/FlowsMind/Technical_Survey/blob/master/Go-Stat.md)
-
-3. [Natural Language Processing](https://github.com/FlowsMind/Technical_Survey/blob/master/Go-NLP.md)
 
