@@ -80,4 +80,5 @@ https://github.com/cdipaolo/goml
 Algorithms that learning, used for implementation of learning on the wire, running algorithms while the data is in the streams, channels, very well tested, extensive documentation.
 
 12. go_ml
+https://github.com/alonsovidales/go_ml
 Machine Learning libraries for Go Lang - Linear regression, Logistic regression, etc.
