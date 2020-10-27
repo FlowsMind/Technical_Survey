@@ -8,10 +8,17 @@ A well tested and comprehensive Golang statistics library / package / module wit
 https://github.com/gonum/gonum
 
 https://github.com/gonum/unit: Package for converting between scientific units
-https://github.com/gonum/mathext: mathext implements basic elementary functions not included in the Go standard library https://github.com/gonum/matrix: Matrix packages for the Go language
+
+https://github.com/gonum/mathext: mathext implements basic elementary functions not included in the Go standard library 
+
+https://github.com/gonum/matrix: Matrix packages for the Go language
+
 https://github.com/gonum/plot: A repository for plotting and visualizing data
+
 https://github.com/gonum/blas: Basic Linear Algebra Sub Programs Implementation
+
 https://github.com/gonum/graph: Graph packages for the Go language
+
 https://github.com/gonum/lapack: Linear Algebra Package
 
 3. Sparse matrix formats
