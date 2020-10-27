@@ -72,5 +72,22 @@ gocrawl: Polite, slim and concurrent web crawler.
 3. golucene: Go port of Apache Lucene.
 
 4. golucy: Go bindings for the Apache Lucy full text search library.
+
+## Linear Algebra in Go
+1. Linear Algebra for Go & Matrix Library: https://github.com/skelterjohn/go.matrix
+
+2. Mat64: Package mat64 provides basic linear algebra operations for float64 matrices.: https://godoc.org/github.com/gonum/matrix/mat64
+
+3. BLAS Implementation for Go: https://github.com/gonum/blas liblinear bindings for Go: https://github.com/danieldk/golinear
+
+## Classification, Decision Trees in Go
+1. Hector https://github.com/xlvector/hector - Golang machine learning lib. Currently, it can be used to solve binary classification problems.Logistic Regression , Factorized Machine , CART, Random Forest, Random Decision Tree, Gradient Boosting Decision Tree & Neural Network
+
+2. Decision Trees in Go - https://github.com/ajtulloch/decisiontrees - Gradient Boosting, Random Forests, etc. implemented in Go
+
+3. CloudForest - https://github.com/ryanbressler/CloudForest - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go (golang).
+CloudForest allows for a number of related algorithms for classification, regression, feature selection and structure analysis on heterogeneous numerical / categorical data with missing values.
+
+4. Random Forest Implementation: https://github.com/fxsjy/RF.go
  
  
