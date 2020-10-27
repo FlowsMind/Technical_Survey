@@ -6,7 +6,6 @@ https://github.com/olivia-ai/olivia
   Olivia is an open-source chatbot built in Golang using Machine Learning technologies. Its goal is to provide a free and open-source alternative to big services like DialogFlow.
 You can chat with her by speaking (STT) or writing, she replies with a text message but you can enable her voice (TTS).
 
-
 2. Artificial Neural Network
 https://github.com/patrikeh/go-deep
 
@@ -21,6 +20,16 @@ https://github.com/made2591/go-perceptron-go
 
 6. fonet is a deep neural network package for Go.
 https://github.com/Fontinalis/fonet
+
+7. Neural Networks written in go
+https://github.com/goml/gobrain
+
+8. Go Fann 
+https://github.com/white-pony/go-fann
+
+9. Multi-Layer Perceptron Neural Network 
+https://github.com/schuyler/neural-go
+
 
 ## [Machine Learning]
 
@@ -62,4 +71,13 @@ https://github.com/dmitryikh/leaves
 https://github.com/mpraski/clusters
 Go implementations of several clustering algoritms (k-means++, DBSCAN, OPTICS), as well as utilities for importing data and estimating optimal number of clusters.
 
+10. GoLearn
+https://github.com/sjwhitworth/golearn
+One of the most prominent Go Machine Learning library, A very similar implementation as scikit-learn, most implemented in Go with some c++ bindings
 
+11. GoML
+https://github.com/cdipaolo/goml
+Algorithms that learning, used for implementation of learning on the wire, running algorithms while the data is in the streams, channels, very well tested, extensive documentation.
+
+12. go_ml
+Machine Learning libraries for Go Lang - Linear regression, Logistic regression, etc.
