@@ -59,6 +59,11 @@ A graphing application written in go using [termdash](https://github.com/mum4k/t
 6. A repository for plotting and visualizing data
 [gonum/plot](https://github.com/gonum/plot) is the new, official fork of [plotinum](https://code.google.com/p/plotinum). It provides an API for building and drawing plots in Go.
 
+### anomaly-detection
+1. Resource: https://github.com/FlowsMind/Technical_Survey/blob/master/anomaly-detection.md
+
+2. paper : [awesome-anomaly-detection.md](https://github.com/FlowsMind/Technical_Survey/blob/master/awesome-anomaly-detection.md)
+
 ### UI
 1. The interactive web server
 [gchaincl/httplab](https://github.com/gchaincl/httplab)
