@@ -69,3 +69,7 @@ A graphing application written in go using [termdash](https://github.com/mum4k/t
 [gchaincl/httplab](https://github.com/gchaincl/httplab)
 
 
+### zero-knowledge proof
+https://github.com/FlowsMind/Technical_Survey/blob/master/ZK.md
+
+
