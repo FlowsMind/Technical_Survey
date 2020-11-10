@@ -30,6 +30,10 @@ https://github.com/white-pony/go-fann
 9. Multi-Layer Perceptron Neural Network 
 https://github.com/schuyler/neural-go
 
+10. gomind
+https://github.com/surenderthakran/gomind
+A simplistic Neural Network Library in Go
+
 
 ## [Machine Learning]
 
@@ -82,7 +86,3 @@ Algorithms that learning, used for implementation of learning on the wire, runni
 12. go_ml
 https://github.com/alonsovidales/go_ml
 Machine Learning libraries for Go Lang - Linear regression, Logistic regression, etc.
-
-13. gomind
-https://github.com/surenderthakran/gomind
-A simplistic Neural Network Library in Go
