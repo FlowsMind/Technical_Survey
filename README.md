@@ -72,4 +72,12 @@ A graphing application written in go using [termdash](https://github.com/mum4k/t
 ### zero-knowledge proof
 https://github.com/FlowsMind/Technical_Survey/blob/master/ZK.md
 
+### Micro Deep Learning Framework
+1. micrograd: https://github.com/karpathy/micrograd
+A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+
+2. tinygrad: https://github.com/geohot/tinygrad
+For something in between a pytorch and a karpathy/micrograd
+This may not be the best deep learning framework, but it is a deep learning framework.
+The Tensor class is a wrapper around a numpy array, except it does Tensor things.
 
